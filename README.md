@@ -29,7 +29,7 @@ Step 2 is completely optional.
 # Runtime Analysis
 
 The time complexity of our algorithm is O(n) where n is the number of rows in the log files.
-To calculate n, we have fo the following :-
+To calculate n, we following these steps :-
 
 Step 1: Calculate the size of a single row.
 The length of the provided row is 108 bytes (avg).
